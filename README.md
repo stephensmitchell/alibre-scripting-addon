@@ -10,7 +10,7 @@ Scripting engines
 
 Issues:
 
-- AlibreScript.API.Window is not correctly receiving the hwd from the addon/Alibre 
+- AlibreScript.API.Windows is not correctly receiving the hwd from the addon/Alibre 
 
 <img width="1543" height="1609" alt="image" src="https://github.com/user-attachments/assets/41b29ef6-7e4a-41e4-adc2-f1afeeb46577" />
 
