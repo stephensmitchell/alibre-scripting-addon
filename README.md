@@ -2,11 +2,11 @@ alibre-script-addon
 
 Scripting engines
 
-[ ] PythonNET
+- [ ] PythonNET
 
-[ ] IronPyton 3
+- [ ] IronPyton 3
 
-[X] IronPython 2.7
+- [X] IronPython 2.7
 
 Issues:
 
