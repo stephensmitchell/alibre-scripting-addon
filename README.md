@@ -7,7 +7,7 @@ Scripting engines
 
 - [ ] Python.NET
 
-- [ ] IronPython 3
+- [X] IronPython 3
 
 - [X] IronPython 2.7.10/12
 
